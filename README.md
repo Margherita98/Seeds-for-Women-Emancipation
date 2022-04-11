@@ -2,7 +2,7 @@ Seeds for Women Emancipation è un progetto realizzato con un gruppo di studente
 
 L'obiettivo del progetto era introdurrre il mondo della Data Science a degli studenti del liceo.
 Abbiamo iniziato il nostro percorso scoprendo insieme quanto sia facile reperire dei dati da risorse affidabili quando si vuole performare 
-un'analisi su fenomeni sociali. Le studentesse hanno capito quanto non sia sempre necessario affidarsi sempre a informazioni già impacchettate e pronte all'uso.
+un'analisi su fenomeni sociali. Le studentesse hanno capito quanto non sia necessario affidarsi sempre a informazioni già impacchettate e pronte all'uso.
 Abbiamo quindi estrapolato le variabili più interessanti per la nostra ricerca da OECD Data e poi le abbiamo unite in un dataset.
 
 In questa repository GitHub troverete:
